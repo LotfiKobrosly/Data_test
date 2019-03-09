@@ -9,7 +9,7 @@ The file is a Jupyter notebook using Python3. I tried to use a number of librari
 ### Python libraries
 
 * __NumPy__: for matrices use, especially coming in handy for the other libraries
-* __Pands__: used for importing the *data.csv* file, putting it in *DataFrame* format to be used later in a proper, easy and practical way
+* __Pandas__: used for importing the *data.csv* file, putting it in *DataFrame* format to be used later in a proper, easy and practical way
 * __Matplotlib__: used to visualize the data in a structured manner
 
 #### Note
